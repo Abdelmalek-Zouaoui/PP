@@ -1,0 +1,22 @@
+c:\Users\abdel\Desktop\PP\Gestion des Théses\bin\Debug\net9.0\Gestion des Théses.exe
+c:\Users\abdel\Desktop\PP\Gestion des Théses\bin\Debug\net9.0\Gestion des Théses.deps.json
+c:\Users\abdel\Desktop\PP\Gestion des Théses\bin\Debug\net9.0\Gestion des Théses.runtimeconfig.json
+c:\Users\abdel\Desktop\PP\Gestion des Théses\bin\Debug\net9.0\Gestion des Théses.dll
+c:\Users\abdel\Desktop\PP\Gestion des Théses\bin\Debug\net9.0\Gestion des Théses.pdb
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\Gestion des Théses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\Gestion des Théses.AssemblyInfoInputs.cache
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\Gestion des Théses.AssemblyInfo.cs
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\Gestion des Théses.csproj.CoreCompileInputs.cache
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\Gestion des Théses.dll
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\refint\Gestion des Théses.dll
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\Gestion des Théses.pdb
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\Gestion des Théses.genruntimeconfig.cache
+c:\Users\abdel\Desktop\PP\Gestion des Théses\obj\Debug\net9.0\ref\Gestion des Théses.dll
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\Gestion des Théses.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\Gestion des Théses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\Gestion des Théses.AssemblyInfoInputs.cache
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\Gestion des Théses.AssemblyInfo.cs
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\Gestion des Théses.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\Gestion des Théses.dll
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\refint\Gestion des Théses.dll
+C:\Users\abdel\Desktop\PP\GestiondesThéses\obj\Debug\net9.0\Gestion des Théses.pdb
